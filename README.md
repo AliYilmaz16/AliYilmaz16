@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on object detection with python<br>🌱 I'm Learning Backend Development with FastAPI<br>🎓 I'm currently studying in the Department of Computer Engineering at Bursa Technical University.<br>📌 Living in Bursa,Türkiye
+🔭 I’m currently working on object detection with python<br>🌱 I'm Learning Backend Development with Spring Boot<br>🎓 I'm currently studying in the Department of Computer Engineering at Bursa Technical University.<br>📌 Living in Bursa,Türkiye
 
 
 ## 🌐 Socials:
